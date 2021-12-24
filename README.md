@@ -5,18 +5,35 @@
   - Microcontroller  
   - Embedded linux
   - Open source IoT development / reverse engineering
-  - Robotics
+  - Home automation
+  - Free software
+  - All sorts of innovative things :D
 
-**Programming Languages**
+**⚙️ Programming Languages**
 
-<img alt="C++" title="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|
+<!--C++, C, js, rust -->
+<img alt="C++" title="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">  
+|--|--|--|--|
   
-**Tools**
+**🛠️ Tools**
 
 <img title="Manjaro" alt="Manjaro" width="40px" src="https://manjaro.org/img/logo.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="CMake" alt="CMake" width="40px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png">
 |--|--|--|--|
 <br>
+
+**💡 Off-topic interests**  
+
+ - Traditional Chinese culture (poetry, literature, clothing, music, etc)
+ - Electronic music, or probably, all sorts of music?  
+ - Cryptocurrency (well, just a little bit)
+ - PC building
+ - Electronic engineering
+
+**📫 How to reach me**  
+
+  - Email me at: <a href="mailto:2302004040@qq.com"> 2302004040@qq.com </a>.  I will check emails regularly and reply as soon as possible.  Feel free to exchange any ideas, questions, or concerns.
+
+
 
 <!--
 **happyme531/happyme531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
