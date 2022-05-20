@@ -31,7 +31,7 @@
 
 **📫 How to reach me**  
 
-  - Email me at: <a href="mailto:2302004040@qq.com"> 2302004040@qq.com </a>.  I will check emails regularly and reply as soon as possible.  Feel free to exchange any ideas, questions, or concerns.
+  - Email me at: <a href="mailto:happyme5315@gmail.com"> happyme5315@gmail.com </a>.  I will check emails regularly and reply as soon as possible.  Feel free to exchange any ideas, questions, or concerns.
 
 
 
