@@ -21,14 +21,6 @@
 |--|--|--|--|
 <br>
 
-**💡 Off-topic interests**  
-
- - Traditional Chinese culture (poetry, literature, clothing, music, etc)
- - Electronic music, or probably, all sorts of music?  
- - Cryptocurrency (well, just a little bit)
- - PC building
- - Electronic engineering
-
 **📫 How to reach me**  
 
   - Email me at: <a href="mailto:happyme5315@gmail.com"> happyme5315@gmail.com </a>.  I will check emails regularly and reply as soon as possible.  Feel free to exchange any ideas, questions, or concerns.
