@@ -3,10 +3,9 @@
 
 📃 I'm interesting on:
   - Microcontroller  
-  - Embedded linux
   - Open source IoT development / reverse engineering
-  - Home automation
   - Free software
+  - AI applications
   - All sorts of innovative things :D
 
 **⚙️ Programming Languages**
