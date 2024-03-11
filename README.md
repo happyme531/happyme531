@@ -2,11 +2,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=happyme531)
 
 📃 I'm interesting on:
-  - Microcontroller  
-  - Open source IoT development / reverse engineering
-  - Free software
-  - AI applications
-  - All sorts of innovative things :D
+  - Edge/embedded AI application
+  - Microcontroller/SBC  
+  - Open source IoT development / reverse engineering  
+  - Free software  
+  - All sorts of innovative things :D  
 
 **⚙️ Programming Languages**
 
